@@ -6,7 +6,7 @@ Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but 
 
 ---
 
-## Choix de la technologie principale : JavaScript
+## Choix de la technologie principale : JavaScript+ 
 
 J'ai choisi JavaScript pour son omniprésence dans le développement web et son écosystème en constante évolution. Voici les raisons principales de ce choix.
 
@@ -58,10 +58,22 @@ J'ai choisi JavaScript pour son omniprésence dans le développement web et son 
 
 ---
 
+### 3. **Google Alerts**
 
+- **Lien vers la source :** [Google Alerts](https://www.google.com/alerts)
 
+| Critère                     | Justification                                                                                      |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
+| **Surveillance automatisée** | Crée des alertes sur "JavaScript" pour recevoir des mises à jour personnalisées par mail.          |
+| **Alertes personnalisées**   | Les alertes peuvent être configurées pour des mots-clés spécifiques (JavaScript, ES6, frameworks).  |
+| **Couverture globale**       | Google Alerts surveille une large gamme de sources, y compris blogs, forums et médias traditionnels.|
 
+#### Trouvailles avec Google Alerts
 
+| Date       | Titre / Lien                                                   | Description |
+|------------|-----------------------------------------------------------------|-------------|
+| 29/09/2024 | [Nouvel article sur ECMAScript 2024](https://example.com/ecmascript2024) | Un aperçu détaillé des nouvelles fonctionnalités d'ECMAScript 2024. |
+| 18/09/2024 | [Comparatif des frameworks JS 2024](https://example.com/comparatif-frameworks) | Un article comparant les performances de différents frameworks JS en 2024. |
 
-
+---
 
