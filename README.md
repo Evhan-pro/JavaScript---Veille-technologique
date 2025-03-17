@@ -28,7 +28,7 @@ Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but 
 - **Comptes à suivre :**
   - [JavaScript Daily](https://x.com/JavaScriptDaily) — News et tendances JS.
   - [Evan You](https://x.com/youyuxi) — Créateur de Vue.js.
-  - [Dan Abramov](https://x.com/dan_abramov) — Développeur clé de React.
+  - [Dan Abramov](https://x.com/@dan_abramov2) — Développeur clé de React. (Compte introuvable depuis peu de temps)
   - [TC39](https://x.com/TC39) — Spécifications ECMAScript.
 - **Hashtags à suivre :** #JavaScript #ReactJS #NodeJS #VueJS #TypeScript
 
