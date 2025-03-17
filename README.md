@@ -1,79 +1,103 @@
 # JavaScript — Veille Technologique
 
-## Introduction
+## 📝 Introduction
 
-Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but de centraliser les actualités et nouveautés concernant l'écosystème JavaScript. Le choix des technologies et outils pour ce projet a été effectué après une analyse approfondie pour optimiser la veille, la gestion des sources et la présentation des informations.
-
----
-
-## Choix de la technologie principale : JavaScript+ 
-
-J'ai choisi JavaScript pour son omniprésence dans le développement web et son écosystème en constante évolution. Voici les raisons principales de ce choix.
-
-### Justification du choix de JavaScript
-
-| Critère              | Description                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------|
-| **Popularité**        | JavaScript est le langage de programmation le plus utilisé sur GitHub et sur le web          |
-| **Dynamisme**         | Son écosystème évolue rapidement avec de nouveaux frameworks, outils et standards régulièrement |
-| **Large communauté**  | Une communauté active qui partage constamment des nouveautés et des ressources                |
-| **Polyvalence**       | Utilisé autant pour le frontend que le backend (Node.js) ou pour les applications mobiles    |
+Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but de centraliser les actualités et nouveautés concernant l'écosystème JavaScript. JavaScript étant un langage incontournable du développement web, aussi bien pour le frontend que pour le backend avec Node.js, une veille technologique active est essentielle pour rester à jour.
 
 ---
 
-## Outils utilisés pour la veille technologique
+## 🛠️ Outils et Méthodes Utilisés
 
-### 1. **X ('Twitter') - Liste de comptes JavaScript**
+### 1. 📚 Agrégateurs de flux RSS
 
-- **Lien vers la source :** [X - JavaScript Devs](https://x.com)
-
-| Critère                     | Justification                                                                                      |
-|-----------------------------|----------------------------------------------------------------------------------------------------|
-| **Mises à jour en temps réel** | Suivre les annonces des développeurs influents ou entreprises JS directement via leurs tweets    |
-| **Communauté active**       | X est utilisé par de nombreux développeurs pour partager des nouveautés ou des retours        |
-| **Liste personnalisée**     | La possibilité de créer une liste permet de ne suivre que des comptes pertinents pour JavaScript    |
-
-#### Trouvailles avec X
-
-| Date       | Titre / Lien                                                   | Description |
-|------------|-----------------------------------------------------------------|-------------|
-| 09/10/2024 | [Compte JavaScriptDaily](https://x.com/JavaScriptDaily)                      | Partage de liens, de nouvelles et d'humour sur JS, TypeScript et les technologies frontales associées avec des noms de marque |
-| 22/09/2024 | [Nouveautés dans Angular 15](https://twitter.com/angular)       | Angular 15 a été officiellement annoncé, avec des mises à jour sur la gestion de l’état et les performances. |
+#### **Feedly**
+- **Lien :** [Feedly](https://feedly.com)
+- **Justification :** Feedly permet d'organiser et de suivre les blogs, sites d'actualités et autres sources JavaScript.
+- **Utilisation :** Suivi des catégories "JavaScript", "Web Development" avec des sources comme :
+  - [JavaScript Weekly](https://javascriptweekly.com/)
+  - [Smashing Magazine](https://www.smashingmagazine.com/)
+  - [CSS-Tricks](https://css-tricks.com/)
 
 ---
 
-### 2. **Newsletters JavaScript**
+### 2. 🐦 Réseaux Sociaux
 
-| Critère                       | Justification                                                                                     |
-|-------------------------------|---------------------------------------------------------------------------------------------------|
-| **Actualités récentes**        | Les newsletters offrent une sélection hebdomadaire des articles, bibliothèques et annonces majeures du monde JavaScript |
-| **Sélection éditoriale**       | Chaque newsletter est réalisée par des experts du domaine pour ne présenter que les nouveautés les plus pertinentes |
-| **Accessibilité**              | Les newsletters sont gratuites et permettent une veille rapide via email, sans avoir à parcourir le web manuellement |
+#### **X (Twitter)**
+- **Lien :** [X - JavaScript Devs](https://x.com)
+- **Justification :** Plateforme idéale pour suivre les tendances JavaScript en temps réel.
+- **Comptes à suivre :**
+  - [JavaScript Daily](https://x.com/JavaScriptDaily) — News et tendances JS.
+  - [Evan You](https://x.com/youyuxi) — Créateur de Vue.js.
+  - [Dan Abramov](https://x.com/dan_abramov) — Développeur clé de React.
+  - [TC39](https://x.com/TC39) — Spécifications ECMAScript.
+- **Hashtags à suivre :** #JavaScript #ReactJS #NodeJS #VueJS #TypeScript
 
-#### Trouvailles avec les newsletters
-
-| Date       | Titre / Lien                                           | Description |
-|------------|---------------------------------------------------------|-------------|
-| 09/10/2024 | [JavaScript Weekly](https://javascriptweekly.com/) | Une newsletter d'articles JavaScript, de nouvelles et de projets sympas |
-
----
-
-### 3. **Google Alerts**
-
-- **Lien vers la source :** [Google Alerts](https://www.google.com/alerts)
-
-| Critère                     | Justification                                                                                      |
-|-----------------------------|----------------------------------------------------------------------------------------------------|
-| **Surveillance automatisée** | Crée des alertes sur "JavaScript" pour recevoir des mises à jour personnalisées par mail.          |
-| **Alertes personnalisées**   | Les alertes peuvent être configurées pour des mots-clés spécifiques (JavaScript, ES6, frameworks).  |
-| **Couverture globale**       | Google Alerts surveille une large gamme de sources, y compris blogs, forums et médias traditionnels.|
-
-#### Trouvailles avec Google Alerts
-
-| Date       | Titre / Lien                                                   | Description |
-|------------|-----------------------------------------------------------------|-------------|
-| 29/09/2024 | [Nouvel article sur ECMAScript 2024](https://example.com/ecmascript2024) | Un aperçu détaillé des nouvelles fonctionnalités d'ECMAScript 2024. |
-| 18/09/2024 | [Comparatif des frameworks JS 2024](https://example.com/comparatif-frameworks) | Un article comparant les performances de différents frameworks JS en 2024. |
+#### 📅 Trouvailles récentes sur X
+| Date | Source | Titre / Lien | Description |
+|------|--------|--------------|-------------|
+| 12/03/2025 | X | [Deno 2.0 est sorti](https://deno.com) | Nouvelle version de Deno avec des améliorations majeures. |
+| 10/03/2025 | JS Weekly | [React Server Components](https://react.dev) | Améliorations des performances de React avec les RSC. |
 
 ---
 
+### 3. 🎥 YouTube
+
+#### **Chaînes recommandées**
+- **Lien :** [YouTube](https://www.youtube.com)
+- **Justification :** Ressources vidéo pour tutoriels, conférences et webinaires JavaScript.
+- **Chaînes utiles :**
+  - [Traversy Media](https://www.youtube.com/c/TraversyMedia) — Tutoriels JavaScript et frameworks.
+  - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) — Cours sur JS, React, Vue et Node.js.
+  - [Fireship](https://www.youtube.com/c/Fireship) — Explications rapides et tendances.
+
+---
+
+### 4. 💬 Communautés
+
+#### **Discord & Slack**
+- **Lien :** [JavaScript Discord](https://discord.com/invite/javascript)
+- **Justification :** Échanges directs avec la communauté JS pour résoudre des problèmes et partager des ressources.
+
+---
+
+### 5. 🛢️ Google Alerts
+
+#### **Google Alertes**
+- **Lien :** [Google Alerts](https://www.google.com/alerts)
+- **Justification :** Alertes configurées pour des mots-clés comme "JavaScript ESNext", "Node.js performance", "React best practices".
+
+---
+
+### 6. 🌐 Blogs et Sites Web
+
+#### **Sites spécialisés**
+- [Smashing Magazine](https://www.smashingmagazine.com/) — Articles approfondis sur JS et le développement web.
+- [CSS-Tricks](https://css-tricks.com/) — Conseils et astuces pour le développement frontend.
+- [Dev.to](https://dev.to/) — Articles et retours d'expérience sur JavaScript.
+- [LogRocket Blog](https://blog.logrocket.com/) — Analyse des tendances et performances JS.
+
+---
+
+### 7. 📚 Documentation
+
+#### **Documentation officielle**
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) — Référence absolue pour JavaScript.
+- [ECMA International](https://tc39.es/) — Spécifications ECMAScript officielles.
+- [Node.js Docs](https://nodejs.org/en/docs/) — Documentation complète sur Node.js.
+
+---
+
+### 8. 🎧 Podcasts
+
+#### **Podcasts recommandés**
+- [JavaScript Jabber](https://devchat.tv/javascript-jabber/) — Discussions JS avec des experts.
+- [Syntax.fm](https://syntax.fm/) — Podcast animé par Wes Bos et Scott Tolinski.
+- [The Changelog](https://changelog.com/) — Conversations autour des évolutions JavaScript.
+
+---
+
+## 🌟 Conclusion
+
+Grâce à cette veille technologique, je peux rester informé des évolutions de JavaScript et améliorer mes compétences. Les outils comme X (Twitter), YouTube, Google Alerts et les newsletters me permettent d’accéder facilement à des informations pertinentes. En combinant ces ressources avec de la pratique, je peux mieux intégrer les nouvelles tendances et optimiser mes futurs projets.
+
+**🗓 Dernière mise à jour : Mars 2025**
