@@ -90,7 +90,6 @@ Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but 
 ### 8. 🎧 Podcasts
 
 #### **Podcasts recommandés**
-- [JavaScript Jabber](https://devchat.tv/javascript-jabber/) — Discussions JS avec des experts.
 - [Syntax.fm](https://syntax.fm/) — Podcast animé par Wes Bos et Scott Tolinski.
 - [The Changelog](https://changelog.com/) — Conversations autour des évolutions JavaScript.
 
