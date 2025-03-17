@@ -23,7 +23,7 @@ Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but 
 ### 2. 🐦 Réseaux Sociaux
 
 #### **X (Twitter)**
-- **Lien :** [X - JavaScript Devs]([https://x.com](https://x.com/frontenddevjob))
+- **Lien :** [X - JavaScript Devs](https://x.com/frontenddevjob)
 - **Justification :** Plateforme idéale pour suivre les tendances JavaScript en temps réel.
 - **Comptes à suivre :**
   - [JavaScript Daily](https://x.com/JavaScriptDaily) — News et tendances JS.
