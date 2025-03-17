@@ -55,7 +55,7 @@ Ce dépôt est dédié à la veille technologique sur JavaScript. Il a pour but 
 ### 4. 💬 Communautés
 
 #### **Discord & Slack**
-- **Lien :** [JavaScript Discord](https://discord.com/invite/javascript)
+- **Lien :** [JavaScript Discord](https://discord.com/invite/javascript-mastery-programming-coding-community-710138849350647871)
 - **Justification :** Échanges directs avec la communauté JS pour résoudre des problèmes et partager des ressources.
 
 ---
